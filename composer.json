@@ -1,0 +1,13 @@
+{
+    "name": "egopay/api",
+    "description": "PHP lib for egopay.com API",
+    "autoload": {
+        "classmap": ["src"]
+    },
+    "minimum-stability": "dev",
+    "extra": {
+        "branch-alias": {
+            "dev-master": "1.4-dev"
+        }
+    }
+}
